@@ -11,6 +11,8 @@ check = int(input("give me a number to divide: "))
 
 if num % 4 == 0:
         print(num, "is a multiple of 4")
+elif num % 3 == 0
+        print(num, "is a multiple of 3")
 elif num % 2 == 0:
         print(num, "is a even number")
 else:
